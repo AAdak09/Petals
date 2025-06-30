@@ -9,8 +9,9 @@ CR2032 Battery
 # SCHEMATIC
 ![image](https://github.com/user-attachments/assets/29f864bb-cb8d-46cd-b148-4e90c62c55f1)
 # PCB
-![image](https://github.com/user-attachments/assets/b767b386-38a2-4c8a-8dba-2286c95f0405)
+![image](https://github.com/user-attachments/assets/e91c567e-df99-41c8-9a76-bb3e688c8225)
 # 3D VIEW
-![image](https://github.com/user-attachments/assets/26d082af-3d1c-4c76-a436-3ebff1145972)
+![image](https://github.com/user-attachments/assets/6f540a3d-3d41-46e5-bd69-109b6c2affb4)
+
 
 SLACK USERNAME: @Asmita Adak
